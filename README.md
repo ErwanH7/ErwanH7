@@ -17,7 +17,7 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
 ## 🛠️ Compétences techniques
 
 ### 🔹 Langages de programmation
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -28,7 +28,7 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
 </p>
 
 ### 🔹 Outils & environnements
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Creator" width="40" height="40"/>
@@ -36,13 +36,13 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
 </p>
 
 ### 🔹 Outils collaboratifs
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Trello-logo-blue.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_Teams_%282018–present%29.svg" alt="Teams" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/OneDrive_2020.svg" alt="OneDrive" width="40" height="40"/>
+  <img src="https://fr.wikipedia.org/wiki/Trello#/media/Fichier:Logo_Trello.svg" alt="Trello" width="40" height="40"/>
+  <img src="https://fr.wikipedia.org/wiki/Microsoft_Teams#/media/Fichier:Microsoft_Office_Teams_(2018%E2%80%93present).svg" alt="Teams" width="40" height="40"/>
+  <img src="https://fr.wikipedia.org/wiki/Microsoft_OneDrive#/media/Fichier:Microsoft_Office_OneDrive_(2019%E2%80%93present).svg" alt="OneDrive" width="40" height="40"/>
 </p>
 
 ---
