@@ -40,11 +40,10 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://fr.wikipedia.org/wiki/Trello#/media/Fichier:Logo_Trello.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://fr.wikipedia.org/wiki/Microsoft_Teams#/media/Fichier:Microsoft_Office_Teams_(2018%E2%80%93present).svg" alt="Teams" width="40" height="40"/>
-  <img src="https://fr.wikipedia.org/wiki/Microsoft_OneDrive#/media/Fichier:Microsoft_Office_OneDrive_(2019%E2%80%93present).svg" alt="OneDrive" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trello.svg" alt="Trello" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft-teams.svg" alt="Microsoft Teams" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/onedrive.svg" alt="OneDrive" width="40" height="40"/>
 </p>
-
 ---
 
 ## 🎓 Formation & Expériences
