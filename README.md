@@ -41,8 +41,8 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trello.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft-teams.svg" alt="Microsoft Teams" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/onedrive.svg" alt="OneDrive" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/09766092d9832619d780b7b84c03c78693b632ba01d32028587c94532395498b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63392f4d6963726f736f66745f4f66666963655f5465616d735f2532383230313825453225383025393370726573656e742532392e7376672f38303070782d4d6963726f736f66745f4f66666963655f5465616d735f2532383230313825453225383025393370726573656e742532392e7376672e706e67" alt="Microsoft Teams" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/c209ec7db04c684344e5159fadb9f3931e2685e7929891fbbc2ce6197d37492d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33632f4d6963726f736f66745f4f66666963655f4f6e6544726976655f2532383230313925453225383025393370726573656e742532392e7376672f3132303070782d4d6963726f736f66745f4f66666963655f4f6e6544726976655f2532383230313925453225383025393370726573656e742532392e7376672e706e67" alt="OneDrive" width="40" height="40"/>
 </p>
 ---
 
@@ -58,7 +58,7 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
 
 ## 🔗 Liens utiles
 
-- 📄 [![Télécharge mon CV](https://img.shields.io/badge/Télécharger%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./CV_Erwan_Hoarau) *(PDF)*
+- 📄 [![Télécharge mon CV](./CV_Erwan_Hoarau) *(PDF)*
 - 🌐 [Mon Portfolio (pas encore disponible)](#)
 - 💼 [Mon LinkedIn](https://www.linkedin.com/in/erwan-hoarau/)
 - 🧑‍💻 [Mon GitHub](https://github.com/ErwanH7)
