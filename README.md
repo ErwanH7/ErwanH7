@@ -2,7 +2,7 @@
 
 Moi c'est Erwan !
 
-🎓 Je suis un étudiant en 1ère année de BUT Informatique à l'IUT de Bayonne et du Pays Basque.
+🎓 Je suis un étudiant en 1ère année de BUT Informatique à l'IUT de Bayonne et du Pays Basque. \
 💻 Passionné d'informatique depuis longtemps, je développe des projets mêlant rigueur, créativité et curiosité.
 
 ---
