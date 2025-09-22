@@ -60,7 +60,7 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
 ## 🔗 Liens utiles
 
 - 📄 [Télécharge mon CV](./CV_Erwan_Hoarau) *(PDF)*
-- 🌐 [Mon Portfolio (pas encore disponible)](#)
+- 🌐 [Mon Portfolio](http://erwanh7.github.io/portfolio/)
 - 💼 [Mon LinkedIn](https://www.linkedin.com/in/erwan-hoarau/)
 - 🧑‍💻 [Mon GitHub](https://github.com/ErwanH7)
 
