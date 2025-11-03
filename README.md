@@ -41,8 +41,8 @@ Mes expériences personnelles et académiques m'ont permis de forger une bonne a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trello.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Teams_%282018–present%29.svg" alt="Microsoft Teams" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_OneDrive_%282019–present%29.svg" alt="OneDrive" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftteams" alt="Microsoft Teams" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftonedrive" alt="OneDrive" width="40" height="40"/>
 </p>
 
 ---
